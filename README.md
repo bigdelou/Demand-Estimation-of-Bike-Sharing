@@ -35,8 +35,8 @@ This dataset contains the hourly and daily count of rental bikes between years 2
 * registered: count of registered users
 * cnt: count of total rental bikes including both casual and registered
 
-2. The file of Python codes (MB_Housing Sales Pricing in King County.py) is uploaded here on github
-3. The presentation powerpoint slides of the project and its stpes (including objectives, problem statement, research questions, methodology, findings, results and conclusions) is provided on github as well. 
+2. The file of Python codes (MB_Demand-Estimation-of-Bike-Sharing.py) is uploaded here on github
+3. The pdf summary report of the project and its stpes (including objectives, problem statement, research questions, methodology, findings, results and conclusions) is provided on github as well. 
 
 Do not hesitate to contact me if you have any questions, comments or feedback!
 
